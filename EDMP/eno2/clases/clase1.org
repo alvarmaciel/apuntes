@@ -1,1 +1,10 @@
 * Clase 1
+- Nos proponemos comenzar a analizar de qué manera las concepciones de enseñanza en las que los docentes apoyamos nuestra práctica influyen en los modos de transmisión de los saberes del aula.
+
+** Acerca del enfoque para la enseñanza de las operaciones.
+
+- La enseñanza de una operación se reduce a la presentación de intensa práctica de una determinada cuenta, para luego presentar problemas con una estructura "tipo", que se resuelve con esa operación.
+  - *La consecuencia* la /transformación/ de la tarea de la resolución de problemas en la /búsqueda de indicios/ para usar los números y escribir la cuenta que se está "estudiando" en ese momento.
+  - ver [[http://revistasuma.es/IMG/pdf/5/005-012.pdf][Edad del capitán]]
+- Las operaciones cobran sentido en la medida que el aprendiente puede identificar los problemas que le permiten resolver.
+- 
