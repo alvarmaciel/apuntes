@@ -1,0 +1,132 @@
+ /**
+ * Hoja de estilos para definir estilos propios del cliente.
+ *
+ * La hoja de estilos est'a estructura de la siguiente manera :
+ *
+ *      - Toolbar: corresponde a la botonera que tiene los links de:
+ *
+ *                   - Inicio
+ *                   - Ayuda
+ *                   - Mis datos
+ *                   - B'usqueda
+ *                   - Administrador
+ *
+ *      - Menu principal: corresponde al men'u con las secciones del aula
+ *
+ *      - Submenu: corresponde al men'u que contiene las categor'ias para una determinada secci'on,
+ *                 los servicios disponibles seg'un el permiso del usuario, etc.
+ *
+ *
+ */
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+ /**
+  * @objeto: Toolbar
+  *
+  */
+
+    /* general para el encabezado */
+    #marco_encabezado {  }
+
+    /* links del encabezado (Inicio, Ayuda, Mis datos, Busqueda, Administrador */
+    #barra_encabezado a {  }
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+ /**
+  * @objeto: Menu Principal
+  *
+  */
+
+     /* titulo del menu, primer item del menu */
+    div#menu_secciones_titulo span { }
+
+    /* texto del separador del menu con icono */
+    .menu_secciones_separador_con_icono span {  }
+
+    /* texto del separador del menu sin icono */
+    .menu_secciones_separador span {  }
+
+    /* links */
+    #menu_secciones :link , #menu_secciones :visited {  }
+    #menu_secciones a:hover {  }
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+#marco_principal_pie_pagina_completa {
+height: 145px;
+}
+
+
+
+ /**
+  * @objeto: Submenu
+  *
+  */
+
+    /* titulos */
+    .Submenu-Item-Title {  }
+
+    /* categorias y servicios disponibles */
+    a.Submenu-Item-Content-Categorias-Remarcada-Link, /* categoria actual */
+    a.Submenu-Item-Content-Categorias-Normal-Link,
+    .Submenu-Item-Content-Servicios-Link { }
+
+    /* descripcion del curso en el cual el usuario se encuentra logueado */
+    .TeEncontrasEn { }
+
+
+/*-----------------------------------------------------------------------------------------------------*/
+/* Estilos del tiny_personalizado */
+#textocentral,
+.tiny_personalizado
+{
+	font-family: Verdana, Arial, Tahoma; font-size: 10pt;
+}
+
+.textocentral {
+    font-family: Verdana, Arial, Tahoma; font-size: 10pt;
+}
+    
+
+/*--------fin-cambio--tipografia-----*/
+
+
+
+
+
+.Submenu-Item-Title {
+    color: #000000 !important;
+}
+
+.TitulosDer {
+    color: #000000 !important;
+}
+
+a.LinkCategoria font {
+    color: #000000 !important;
+}
+    
+td.Categoria font {
+    color: #000000 !important;
+}
+
+
+.Productos a {
+    color: #0052B5 !important;
+    text-decoration: underline !important;
+}
+
+#tabla_productos li:hover {
+    background-color: #DDDDDD !important;
+}
+
+#logo_principal {
+    border: 1px !important;
+}
+
+
+
+
+

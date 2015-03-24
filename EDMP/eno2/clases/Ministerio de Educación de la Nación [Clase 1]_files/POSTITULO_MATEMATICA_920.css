@@ -1,0 +1,193 @@
+/********************************************************************************/
+/*                                                                              */
+/* Plataforma e-ducativa.  Version 7.08.03-64 - Argentina                       */
+/*                                                                              */
+/* Copyright (c) 1998-2008 de e-ducativa Educación Virtual S.A.                 */
+/*                                                                              */
+/********************************************************************************/
+ /*-----------------------------------------------------------------------------------------------------*/
+
+ /**
+  * Hoja de estilos especifica del skin coquette_920.
+  *
+  * Sobreescribe algunas propiedades de otras hojas de estilos
+  *
+  */
+
+ /*-----------------------------------------------------------------------------------------------------*/
+
+ /**
+  * @Stylesheet: secciones_generales
+  *
+  */
+  @import "font.rosario.css";
+
+    body {
+        margin: 2px 0 14px;
+        /* El padding se ajusta desde encabezado.htm por JS para mostrar el menu accesible */
+    }
+
+    div#contenido_principal { padding-right: 7px; padding-left: 7px; width: 622px; }
+    .ancho_920 div#marco_principal { border: none; width: 920px }
+    table#marco_principal_tabla {
+        border: 1px solid #999;
+        border-bottom: none;
+        border-top: none;
+        border-collapse: separate; /* tablas aun necesitan cellspacing en el html */
+        border-spacing: 0;
+    }
+
+    table#marco_principal_tabla img.candado {
+        margin-left: 10px;
+    }
+
+    .ancho_920 td.marco_principal_tabla_center { width: 636px !important; }
+    .ancho_920 td.marco_principal_tabla_left, .ancho_920 td.marco_principal_tabla_right { width: 140px }
+    td.marco_principal_tabla_left, td.marco_principal_tabla_center  { border-right: 1px solid #ccc;  }
+    td.marco_principal_tabla_right { border-left: none   }
+
+    /** encabezado **/
+    #marco_encabezado {
+        position: relative;
+        height: 122px;
+        width: 920px;
+        margin-top: 5px;
+        background: url(../img/encabezado/fondo_encabezado.png) left top no-repeat;
+    }
+
+    .logo_link { border-radius:10px;  position: absolute; top: 14px; left: 10px;  text-decoration: none;}
+    .logo_link .logo { border-radius: 10px;}
+
+    .texto_encabezado { position: absolute; left: 176px; top: 36px; width: 515px; overflow: hidden; }
+    #encabezado_titulo { font-family: 'Rosario', Times New Roman; text-decoration: none; font-weight: bold; font-size: 1.3em; color: #606060; }
+    #encabezado_titulo:hover { color: #000000; }
+    .encabezado_subtitulo { font-family: 'Rosario', Times New Roman; font-size: .8em; color: #999 }
+
+    #seccion_img   { position: absolute; bottom: -1px; right: 25px; width: 64px; height: 61px; padding:10px 16px 0; background:url(../img/encabezado/pestana_seccion.png) no-repeat; }
+    .marco_principal_top { height: 15px; background:url(../img/encabezado/redondeado_top.png) no-repeat 0 0; }
+
+    /** /encabezado **/
+
+    /** secciones **/
+    div#menu_secciones  { padding: .5em 0 0; }
+    #menu_secciones div { border: none !important }
+    .menu_secciones_titulo_nr, div#menu_secciones_titulo span { font-weight: bold; }
+    /** /secciones **/
+
+    .Submenu { padding: .8em 0 1.09em; }
+
+    div#marco_principal_pie { border-top: 1px; }
+    #marco_principal_pie_pagina_completa {
+        padding: 14px 0 0 !important;
+        height: 70px;
+        vertical-align: top;
+        background: transparent url(../img/comunes/pie.png) no-repeat;
+    }
+    #marco_principal_pie_pagina_completa a { position: relative; padding: 3px 0 }
+/*-----------------------------------------------------------------------------------------------------*/
+
+/**
+  * @Stylesheet: style
+  *
+  */
+
+    .ancho_920 .expandir_espaciotrabajo {
+        border-width: 0 1px 0 1px;
+        border-style: solid;
+        border-color: #999;
+        width: 918px !important;
+        background-color: white;
+    }
+    .ancho_920 .expandir_contenidocentral { width: 618px !important }
+    #marco_principal_pie_pagina_completa .expandir_espaciotrabajo { border: none; background-color: transparent }
+    .color_borde_izq, .color_borde_der { background-color: #ccc }
+    #tabla_pie_pagina_nr { border: none; width: 920px !important; background-color: transparent }
+    .td_izq_tabla_pie_nr { border-left: 1px solid #999; }
+    .td_der_tabla_pie_nr { border-right: 1px solid #999; }
+    .td_izq_tabla_pie_nr, .td_der_tabla_pie_nr { border-bottom: none !important }
+    .linea_separadora_menu_ppal_nr { display: none; }
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+ /**
+  * @Stylesheet: links_editor
+  *
+  */
+
+    .LinkEditor-Secciones div.LinkEditor-Nombre     { padding: 10px 26px 10px 43px          }
+    ul .LinkEditor-Categorias div.LinkEditor-Nombre { padding: .4em .8em                    }
+    .LinkEditor-Secciones div.LinkEditor-Nombre     { background-position: 5px 0 !important }
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+/**
+  * @Stylesheet: objetos_comunes
+  *
+  */
+
+    /** spinner ajax **/
+    .ancho_920 .contenido_principal .ajax_indicator { top: 163px; }
+
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+/**
+  * @Stylesheet: base_920
+  *
+  */
+
+    .ancho_920 .expandir_caja478       { width: 616px !important;  }
+    .ancho_920 .expandir_caja479       { width: 618px !important;  }
+    .ancho_920 .expandir_piepagina     { width: 778px !important;  }
+    .ancho_920 #articulo_completo      { width: 618px;             }
+    .ancho_920 .resumen_noticia        { width: 587px;             }
+    .ancho_920 .ItemNoticia            { width: 618px              }
+    .ancho_920 .ItemForo               { width: 606px              }
+
+    .ancho_920 .ItemPrograma, .ancho_920 .ItemMateria, .ancho_920 .ItemTema, .ancho_920 .GuiaScorm  { width: 609px }
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+/**
+  * @Stylesheet: evaluaciones
+  *
+  */
+
+    .ancho_920 .evaluacion .preguntaEvaluacion .itemBody { width: 587px; }
+    .ancho_920 .DatosEvaluacion, .ancho_920 .DatosEvaluacion .respuesta-container { width: 606px !important;}
+    .ancho_920 .DatosEvaluacionSeccion { width: 618px !important }
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+/**
+  * @Stylesheet: login
+  *
+  */
+
+    #acceso_frame { padding-top: 0 }
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+ /**
+  * Encabezados de las secciones Mensajeria, Recordatorio y Ayuda
+  *
+  */
+
+    .texto_imagen_mensajeria, .texto_imagen_ayuda, .texto_imagen_recordatorio {
+        font-family: Times New Roman,Arial,sans-serif;
+        color: #313131;
+        font-size: 21px;
+        line-height: 21px;
+    }
+    .texto_imagen_mensajeria div { margin-left: 25px !important }
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+/**
+  * @Stylesheet: escritorio
+  *
+  */
+
+    .Escritorio-Header {  padding-top: 0 }
+
+/*-----------------------------------------------------------------------------------------------------*/
