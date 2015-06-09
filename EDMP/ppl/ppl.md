@@ -9,7 +9,11 @@
 <li><a href="#sec-1-3">1.3. Espacios de encuentros y proyectos educativo: preguntas desde el presente</a></li>
 </ul>
 </li>
-<li><a href="#sec-2">2. Parte II. El equipaje para viajar: hegemonía, discurso, lo popular, lo latinoamericano.</a></li>
+<li><a href="#sec-2">2. Parte II. El equipaje para viajar: hegemonía, discurso, lo popular, lo latinoamericano.</a>
+<ul>
+<li><a href="#sec-2-1">2.1. Educar como acto político: categorías de análisis</a></li>
+</ul>
+</li>
 </ul>
 </div>
 </div>
@@ -59,3 +63,11 @@
     -   A que sujetos interpelan y de qué manera: cómo y a quienes se incluyó
     -   El contexto de producción del pensamiento.
 -   Los foros de discusión en dinámicas tan veloces de estudio no son diálogos y como tal no pueden ser intercambios colectivos. Son la abstracción del ruido convertido en solilóquios.
+
+## Educar como acto político: categorías de análisis<a id="sec-2-1"></a>
+
+-   Encuadre teórico **análisis político del discurso educativo** (buenfil Burgos, 1993)
+    -   permite analizar políticas educativas, prácticas pedagógicas y los sujetos intervinientes
+-   **Pensamiento pedagógico**:
+
+> "[&#x2026;]comprender las ideas y creencias del pasado: Trabaja[r] así con discursos, conceptos, palabras, esto es, con representaciones &#x2013;Oscar Terán (2008: 11)"
