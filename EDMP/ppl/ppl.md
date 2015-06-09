@@ -11,7 +11,13 @@
 </li>
 <li><a href="#sec-2">2. Parte II. El equipaje para viajar: hegemonía, discurso, lo popular, lo latinoamericano.</a>
 <ul>
-<li><a href="#sec-2-1">2.1. Educar como acto político: categorías de análisis</a></li>
+<li><a href="#sec-2-1">2.1. Educar como acto político: categorías de análisis</a>
+<ul>
+<li><a href="#sec-2-1-1">2.1.1. Discurso</a></li>
+<li><a href="#sec-2-1-2">2.1.2. Hegemonía</a></li>
+<li><a href="#sec-2-1-3">2.1.3. Hegemonía y discursos</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -71,3 +77,43 @@
 -   **Pensamiento pedagógico**:
 
 > "[&#x2026;]comprender las ideas y creencias del pasado: Trabaja[r] así con discursos, conceptos, palabras, esto es, con representaciones &#x2013;Oscar Terán (2008: 11)"
+
+### Discurso<a id="sec-2-1-1"></a>
+
+> "(&#x2026;) toda práctica significante", no solo "(&#x2026;) aquellas que están directamente ligadas al habla o la escritura." "(&#x2026;) las palabras y las acciones (a lo que deberíamos agregar afectos) son parte de una red interdependiente"
+> 
+> &#x2013; Laclau, 2012:83
+
+-   **¿Y el discurso educativo?**: se define en la interrelación con otros discursos, el proyecto político nacional, el poder, las prioridades educativas regionales, el discurso respecto a los géneros, la infancia, entre otros. Y la configuración del discurso educativo en si  mismo, con sus propios elementos, lo educativo *per se*
+-   Figuras retóricas que nos ayudan a entender la estructura de estos recursos:
+    -   **La metáfora**: la sustitución de un significante por otro.
+    -   **La metonimia**: la asociación entre distintos significados.
+
+### Hegemonía<a id="sec-2-1-2"></a>
+
+-   Todo proyecto político-pedagógico tiene su propia dinámica que se articula en mayor o menor grado de hegemonía con el proyecto político en el que se inscribe.<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>
+-   la educación se construye en una articulación de conflictos, disputas de intereses, ideas, logros, demandas, conquistas, etc.
+-   Hegemonía implica el proceso mediante el cual una clase ejerce su supremacía al dominar los grupos antagonistas mediante coerción de aparatos propios de la 'sociedad política'; y al articular y dirigir a los grupos sociales aliados o neutrales a través de los aparatos hegemónicos de la sociedad civil (Huergo, 2009)
+
+### Hegemonía y discursos<a id="sec-2-1-3"></a>
+
+-   la sociedad puede considerarse una configuración discursiva
+-   También lo que se silencia o se olvida en los discursos y prácticas pedagógicas posee sentidos formativos.
+-   la hegemonía trabaja en dos sentidos:
+    1.  **La producción de un imaginario de orden**: que coincide con intereses de sectores dominantes y la presentación de ese orden como algo "natural"
+    2.  **la elaboración de una serie de equivalencias discursivas**: La producción de determinados significantes con significados fijos y permanentes<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup> que no deberían ser subvertidos.
+-   El **discurso social** construye equivalencias de modo que todos los significantes que proliferan en las relaciones sociales construyen una determinada percepción "adecuada" de lo que es el mundo social.
+-   Cuando estas equivalencias se naturalizan, olvidamos que son significados que se han ido construyendo social e históricamente en función de proyectos hegemónicos.
+-   la articulación discursiva que finalmente se va a imponer es lo que define una hegemonía (Laclau 1996)
+
+<div id="footnotes">
+<h2 class="footnotes">Nota al pie de p&aacute;gina: </h2>
+<div id="text-footnotes">
+
+<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> Lo que dá para preguntarnos que pasa en el discurso del proyecto político nacional que, sostiene la descentralización del sistema educativo permitiendo el abandono sistemático de las ofertas educativas de gestión pública. Osea, a nivel nacional se mantiene un discurso de superación de las políticas neoliberales, pero la descentralización del sistema permite que en determinadas jurisdicciones se sostengan políticas que favorecen la gestión privada de las instituciones educativas.</div>
+
+<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> Significante a pensar hoy: calidad educativa</div>
+
+
+</div>
+</div>
